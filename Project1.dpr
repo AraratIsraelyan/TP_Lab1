@@ -9,7 +9,7 @@ begin		{Начало программы}
   Writeln('Hello, World from Delphi!');
 
   Writeln('This is the console application'); 
-  Writeln('Hello, I am Diana')
+ 
   Writeln; 	 {Процедуры Write и WriteLn выполняют
              вывод информации в устройство стандартного вывода}
   Writeln('Press <Enter> to quit.');
@@ -20,6 +20,8 @@ begin		{Начало программы}
 
   Writeln('This is the console application');
   writeln('Hello,people, im Sanechek ');
+  Writeln('Hello, my name is Dasha');
+  Writeln('Hello, I am Diana')
   Writeln; 	 {Процедуры Write и WriteLn выполняют
              вывод информации в устройство стандартного вывода}
   Writeln('Press <Enter> to quit.');
@@ -28,3 +30,4 @@ begin		{Начало программы}
 
 
 end. 		{Конец программы}
+
